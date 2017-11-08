@@ -220,3 +220,38 @@ Given all these disadvantages, central bankers seem to have had much to boast ab
 203.	issue /ˈiʃu:/ n. 重要议题；问题；（杂志，报纸的）期，号 v. 发出；发表	takes a tough line on political issues
 204.	numerical /nju:ˈmerikl/ adj. 数字的	numerically /nju:ˈmerikli/ adv. 数字地，用数据表示地
 205.	numerous /ˈnju:mərəs/ adj. 许多的	enormous 巨大的
+206.	rate /reit/ n. 比率；速度；价格vt. 评价	interest rates and inflation	first-rate / second-rate 一流的 / 二流的
+207.	overrate /əuvəˈreit/ vt. 高估		underrate /ʌndəˈreɪt/ vt. 低估	underestimate 、undervalue
+208.	report /riˈpɔ:t/ vt./n. 报告；报道；传闻	reporter /riˈpɔ:tə(r)/ n. 记者
+209.	reportorial /'repə'tɔ:riəl/ adj. 报道的	poor reportorial skills 拙劣的报道技巧
+210.	leave /li:v/ v. 离开；留下		because they leave the reader with a final impression. 给读者留下最后的印象
+211.	very /ˈveri/ adv. 非常；十足的adj. 正是的；恰好的	the very things that … 恰恰是那件事
+212.	want /wɔnt/ vt. 想要；需要n. 缺乏	families living in want 贫苦的家庭	in want of sth. 需要
+213.	end /end/ n. 末尾；结尾；目的vt. 结束；终止
+	Who will use technology and to what end? 谁来用这一技术，又要达到何种目的?
+214.	ending /ˈendiŋ/ n. 词尾，字尾；（故事、电影等的）结局；终结		unending /ʌnˈendiŋ/ adj. 无尽的
+215.	endless /ˈendləs/ adj. 无休无止的；无限的		endless talk of difference 无休止的谈论差异
+216.	lead /li:d/ vi. 导致 , 造成vt. 引领；过某种生活n. 领先地位	take the lead 处于领先地位 
+217.	leader /ˈli:də(r)/ n. 领导者、龙头公司		misleading /ˌmisˈli:diŋ/ adj. 误导的；引入歧途的
+218.	leadership /ˈli:dəʃip/ n. 领导，领导地位；领导才能		leader skills 领导能力
+219.	power /ˈpauə(r)/ n. 权力；能力；力量；电	power of reasoning 推理能力
+Justices intended to check the power of the Adminstration. 司法部门试图限制政府的权利。
+220.	powerful /ˈpauəfl/ adj. 强大的；效力大的	the most powerful tool 最强有力的工具
+221.	powerless /ˈpauələs/ adj. 无影响力的，无权的；无能为力的	powerfully /'pauəfəli/ adv. 强大地
+222.	nation /ˈneiʃn/ n. 国家；国民		sovereign nation 主权国家
+223.	national /ˈnæʃnəl/ adj. 国家的；民族的		nationally /ˈnæʃnəli/ adv. 全国性地
+224.	international /intəˈnæʃnəl/ adj. 国际的		internationally /intəˈnæʃənəli/ adv. 国际性地；在国际间
+225.	multinational /mʌltiˈnæʃnəl/ n. 跨国公司adj. 跨国的
+226.	nationwide /neiʃnˈwaid/ adv. 全国范围地，全国性地adj. 全国范围的	
+227.	place /pleis/ n. 地点vt. 放置		replaceable /riˈpleisəbl/ adj. 可替换的
+228.	replace /riˈpleis/ vt. 代替；取代	misplaced /misˈpleist/ adj. 放错了地方的；不适宜
+229.	replacement /rɪˈpleɪsmənt/ n. 替代品；替换，更换		displacement /disˈpleismənt/ n. 替代；移位
+230.	point /pɔint/ n. 观点；要点v. 指向；指出			pointless /ˈpɔintləs/ adj. 无意义的
+231.	appoint /əˈpɔint/ vt. 任命	
+232.	appointment /əˈpɔintmənt/ n. 任命 ；预约；约定；职位	a permanent appointment 固定职位
+233.	value /ˈvæljuː/ n. 价值；价值观vt. 重视；珍视	is highly valued 高度重视
+234.	undervalue /ʌndəˈvæljuː/ vt. 低估		overvalue /əuvəˈvælju:/ vt. 估计过高	overvalued assets 被高估过高的资产
+235.	devalue /di:ˈvælju:/ v. 使（货币）贬值；贬低	devalued dollar 贬值了点的美元
+236.	call /kɔ:l/ v. 称为；打电话；召唤	call sth. up  使回忆起；使想起  calls up scary memorie 
+call on 号召	call on scientists to take some actions
+237.	recall /riˈkɔ:l/ v. 记起；回忆起n. 召回
