@@ -255,3 +255,16 @@ Justices intended to check the power of the Adminstration. 司法部门试图限
 236.	call /kɔ:l/ v. 称为；打电话；召唤	call sth. up  使回忆起；使想起  calls up scary memorie 
 call on 号召	call on scientists to take some actions
 237.	recall /riˈkɔ:l/ v. 记起；回忆起n. 召回
+238.	develop /diˈveləp/ v（.   使）成长，发展；患（病）；出现（问题）；研发		develop depression 患上抑郁症
+239.	development /diˈveləpmənt/ n. 发展；发育；成长；开发；研制；研制成果	research and delopment 研发
+240.	developer /diˈveləpə(r)/ n. 开发商；开发者	sustainable development 可持续发展
+241.	undeveloped /ʌndɪˈveləpt/ adj. 未发展的，未充分发育的	undeveloped social groups 不发达的社会群体
+242.	far /fɑ:(r)/ adj. 较远的；（某方向的）最远的，远端的 adv. 远；非常；很大程度上	far more 多得多	by far 到目前为止
+243.	political /pəˈlitikl/ adj. 政治的；政党的		politically /pəˈlitikli/ adv. 政治上
+244.	politics /ˈpɔlətiks/ n. 政治；政治事务（或活动）	daily politics 日常政务
+245.	search /sə:tʃ/ v. 搜索；查找n. 搜索；查找
+246.	creative /kriˈeitiv/ adj. 有创造力的，创造的	creativity /kriːeɪ'tiviti/ n. 创造性
+247.	creation /kriˈeiʃn/ n. 创造；创 . 作品；创作	a literary creation 文学作品
+248.	creature /ˈkri:tʃə(r)/ n. 生物，动物		creationism /kriˈeiʃnizəm/ n. 创造论（认为万物皆由上帝创造）
+249.	recreate /ri:kriˈeit/ vt. 再现			recreataion  n. 娱乐；消遣
+	the attempt to recreate and explain the significant events of the past  试图重现过去的重大史实并对其做出解释
