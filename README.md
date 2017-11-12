@@ -92,16 +92,15 @@ to take the lives of …	Most substances taken in excess will…
 88.	jog /dʒɔɡ/ v. 慢跑n. 慢跑
 89.	market /ˈmɑ:kit/ vt. 推销，促销n. 市场		marketer /ˌmɑ:kiˈtiə(r)/ n. 市场营销人员；营销商
 90.	marketplace /ˈmɑ:kitpleis/ n. 市场；市场竞争
-
-91.	test /test/ n. 测试，考试 vt. 检查vi. 检测为		untested /ʌnˈtestid/ adj. 未经考验（试验）的
-92.	contest vt. /kənˈtest/ 提出异议；竞争n. /ˈkɔntest/ 竞赛	hot-contested market 竞争激烈的市场
-93.	uncontested /ʌnkənˈtestid/ adj. 无争议的
-94.	outlook /ˈautluk/ n. 世界观；前景；景色		overlook /əuvəˈluk/ vt. 忽视；俯瞰
-95.	think /θiŋk/ vt. 认为vi. 思考；想，想起		thinker /ˈθiŋkə(r)/ n. 思想家，有……思想的人
-96.	thought /θɔ:t/ n. 想法（think 的过去式）		thoughtless /ˈθɔ:tləs/ adj. 轻率的，欠考虑的
-97.	thoughtful /ˈθɔ:tfl/ adj. 思考的；体贴周到的	considerate  体贴的，考虑周到的
-98.	freethinking /ˈfri:ˈθiŋkiŋ/ n. 自由思想
-99.	culture /ˈkʌltʃə(r)/ n. 文化；培养（细菌 / 细胞）
+91.		test /test/ n. 测试，考试 vt. 检查vi. 检测为		untested /ʌnˈtestid/ adj. 未经考验（试验）的
+92.		contest vt. /kənˈtest/ 提出异议；竞争n. /ˈkɔntest/ 竞赛	hot-contested market 竞争激烈的市场
+93.		uncontested /ʌnkənˈtestid/ adj. 无争议的
+94.		outlook /ˈautluk/ n. 世界观；前景；景色		overlook /əuvəˈluk/ vt. 忽视；俯瞰
+95.		think /θiŋk/ vt. 认为vi. 思考；想，想起		thinker /ˈθiŋkə(r)/ n. 思想家，有……思想的人
+96.		thought /θɔ:t/ n. 想法（think 的过去式）		thoughtless /ˈθɔ:tləs/ adj. 轻率的，欠考虑的
+97.		thoughtful /ˈθɔ:tfl/ adj. 思考的；体贴周到的	considerate  体贴的，考虑周到的
+98.		freethinking /ˈfri:ˈθiŋkiŋ/ n. 自由思想
+99.		culture /ˈkʌltʃə(r)/ n. 文化；培养（细菌 / 细胞）
 100.	cultural /ˈkʌltʃərəl/ adj. 文化的		counterculture /ˈkauntəkʌltʃə(r)/ n. 反主流文化，反正统文化
 101.	line /lain/ n. 线条；字行，诗行；态度	to take a tough line on political issues 对政治问题态度强硬(hardline)
 102.	underline /ʌndəˈlain/ v. 在……下划线；强调，突出		highlight vt / n	underlying 潜在的
@@ -134,8 +133,8 @@ to take the lives of …	Most substances taken in excess will…
 128.	governance /ˈɡʌvənəns/ n. 管理		Good governance rests on …  depend on、rely on 	依靠
 129.	influential /influˈenʃl/ adj. 有影响力的；n. 有影响力的人
 130.	inform /inˈfɔ:m/ vt. 通知；了解；对……有影响	different kinds of reading inform each other  不同的阅读行为可以影响彼此
-The better informed they are about the way the state works, the better their reporting will be.	
-他们对国家运作的方式了解的越多, 其报道就越好.
+		The better informed they are about the way the state works, the better their reporting will be.	
+		他们对国家运作的方式了解的越多, 其报道就越好.
 131.	uninformed /ʌninˈfɔ:md/ adj. 无知的，知识（或信息）贫乏的
 132.	misinformation /misinfəˈmeiʃn/ n. 误报，错误信息
 133.	large /lɑ:dʒ/ adj. 大的，规模大的			at large 详尽的
@@ -152,21 +151,21 @@ The better informed they are about the way the state works, the better their rep
 144.	better /ˈbetə(r)/ adj. 更好的；更适合的；（病势）好转的
 145.	gooding /ɡʊdiŋ/ n. 善行	goodness /ˈɡʊdnəs / n. 善良，优良
 146.	keep /ki:p/ v. 保留；保持；继续  n. 生活必需品；生活费用     That’s where Straitford earns its keep. 这正是…维持生计的事业
-keep down 压制	keep from 阻止 	keep away (from sb. / sth.) 远离
+		keep down 压制	keep from 阻止 	keep away (from sb. / sth.) 远离
 147.	upkeep /ˈʌpki:p/ n. 保养，维修；抚养（费）	It takes more upkeep. 消耗更多的给养
 148.	gatekeeper /ˈɡeitki:pə(r)/ n. 看门人	
 149.	cost /kɔst/ n. 成本；花费vt. 价钱为；使丧失	That one mistake almost cost him his life. 那个错误几乎使他丧命.
 150.	costly /ˈkɔstli/ adj. 造成损失的；昂贵的		a costly mistake 造成重大损失的错误
-the most costly and dramatic measures 最昂贵和最激进的治疗手段
+		the most costly and dramatic measures 最昂贵和最激进的治疗手段
 151.	then /ðen/ adj. 时任的adv. 那时；（指将来）到那时；然后	who was then education minister 时任教育大臣的…
 152.	industry /ˈindəstri/ n. 行业；工业；勤奋        	industriousness /inˈdʌstriəsnis/ n. 勤 劳（用得更多）  
- Heavy industry becomes more energy-intensive. 重工业越来越能源密集化.
+		Heavy industry becomes more energy-intensive. 重工业越来越能源密集化.
 153.	industrial /inˈdʌstriəl/ adj. 行业的；工业的   
- stricter industrial regulations 更为严苛的行业规则 	the big seven industrial economies 七大工业国
+		stricter industrial regulations 更为严苛的行业规则 	the big seven industrial economies 七大工业国
 154.	industrialize /inˈdʌstriəlaiz/ vt. 使……工业化	industrialization /indʌstriəlaiˈzeiʃən/ n. 工业化
 155.	live /liv/ vi. 住；生存；生活 /laiv/ adj. 活着的；现场（直播）的；充满活力的	live performances 现场表演（直播）
 156.	living /ˈliviŋ/ adj. 活着的；居住的n. 生计；生活方式         a living culture 一种鲜活的文化	urban living 城市生活方式
-make a living 谋生	standard of living 生活水平	our standard of living has increased
+		make a living 谋生	standard of living 生活水平	our standard of living has increased
 157.	liveliness /ˈlaivlinis/ n. 活泼；生动	vivid / lively  adj. 生动的
 158.	outlive /autˈliv/ vt. 比……活得久；度过……而犹在	They may outlive their retirement money. 他们的退休金在去世前就会用光。
 159.	livelihood /ˈlaivlihud/ n. 生计
@@ -203,8 +202,8 @@ take reasonable measures 采取合理的举措
 188.	grow /ɡrəu/ vi. 生长；增长		outgrow /autˈɡrəu/ vt. 因长大而放弃；比……长得高（或大、快）
 189.	growth /ɡrəuθ/ n. 生长；增长，发展	economic growth 经济增长
 190.	late /leit/ adj. 接近末期；已故的；晚的，迟的	his late works 他晚年的作品	tht late Steve 已故的史蒂夫
-Given all these disadvantages, central bankers seem to have had much to boast about / of late.
-考虑到所有不利条件，中央银行家们近来似乎依然有了不少值得夸耀的东西
+		Given all these disadvantages, central bankers seem to have had much to boast about / of late.
+		考虑到所有不利条件，中央银行家们近来似乎依然有了不少值得夸耀的东西
 191.	lately /ˈleitli/ adj. 最近；新近		recently 
 192.	manpower /ˈmænpaʊə/ n. 劳动力，人力		workforce / labor
 193.	clergyman /ˈklə:dʒimən/ n. 神职人员	 	Batman /ˈbætmən/ n. 蝙蝠侠
@@ -228,14 +227,14 @@ Given all these disadvantages, central bankers seem to have had much to boast ab
 211.	very /ˈveri/ adv. 非常；十足的adj. 正是的；恰好的	the very things that … 恰恰是那件事
 212.	want /wɔnt/ vt. 想要；需要n. 缺乏	families living in want 贫苦的家庭	in want of sth. 需要
 213.	end /end/ n. 末尾；结尾；目的vt. 结束；终止
-	Who will use technology and to what end? 谁来用这一技术，又要达到何种目的?
+		Who will use technology and to what end? 谁来用这一技术，又要达到何种目的?
 214.	ending /ˈendiŋ/ n. 词尾，字尾；（故事、电影等的）结局；终结		unending /ʌnˈendiŋ/ adj. 无尽的
 215.	endless /ˈendləs/ adj. 无休无止的；无限的		endless talk of difference 无休止的谈论差异
 216.	lead /li:d/ vi. 导致 , 造成vt. 引领；过某种生活n. 领先地位	take the lead 处于领先地位 
 217.	leader /ˈli:də(r)/ n. 领导者、龙头公司		misleading /ˌmisˈli:diŋ/ adj. 误导的；引入歧途的
 218.	leadership /ˈli:dəʃip/ n. 领导，领导地位；领导才能		leader skills 领导能力
 219.	power /ˈpauə(r)/ n. 权力；能力；力量；电	power of reasoning 推理能力
-Justices intended to check the power of the Adminstration. 司法部门试图限制政府的权利。
+		Justices intended to check the power of the Adminstration. 司法部门试图限制政府的权利。
 220.	powerful /ˈpauəfl/ adj. 强大的；效力大的	the most powerful tool 最强有力的工具
 221.	powerless /ˈpauələs/ adj. 无影响力的，无权的；无能为力的	powerfully /'pauəfəli/ adv. 强大地
 222.	nation /ˈneiʃn/ n. 国家；国民		sovereign nation 主权国家
@@ -253,7 +252,7 @@ Justices intended to check the power of the Adminstration. 司法部门试图限
 234.	undervalue /ʌndəˈvæljuː/ vt. 低估		overvalue /əuvəˈvælju:/ vt. 估计过高	overvalued assets 被高估过高的资产
 235.	devalue /di:ˈvælju:/ v. 使（货币）贬值；贬低	devalued dollar 贬值了点的美元
 236.	call /kɔ:l/ v. 称为；打电话；召唤	call sth. up  使回忆起；使想起  calls up scary memorie 
-call on 号召	call on scientists to take some actions
+		call on 号召	call on scientists to take some actions
 237.	recall /riˈkɔ:l/ v. 记起；回忆起n. 召回
 238.	develop /diˈveləp/ v（.   使）成长，发展；患（病）；出现（问题）；研发		develop depression 患上抑郁症
 239.	development /diˈveləpmənt/ n. 发展；发育；成长；开发；研制；研制成果	research and delopment 研发
@@ -267,4 +266,54 @@ call on 号召	call on scientists to take some actions
 247.	creation /kriˈeiʃn/ n. 创造；创 . 作品；创作	a literary creation 文学作品
 248.	creature /ˈkri:tʃə(r)/ n. 生物，动物		creationism /kriˈeiʃnizəm/ n. 创造论（认为万物皆由上帝创造）
 249.	recreate /ri:kriˈeit/ vt. 再现			recreataion  n. 娱乐；消遣
-	the attempt to recreate and explain the significant events of the past  试图重现过去的重大史实并对其做出解释
+		the attempt to recreate and explain the significant events of the past  试图重现过去的重大史实并对其做出解释
+246.	mind /maind/ n. 思维；大脑v. 介意		our conscious mind  清醒时我们的头脑
+247.	mindlessly /ˈmaindləsli/ adv. 盲目地；无需动脑地，不假思索地	auto-pilot 自动驾驶模式
+248.	mindset /ˈmaindset/ n. 思维模式	the mindest of the academic community 改变学术界的思维模式
+249.	benefit /ˈbenifit/ n. 利益；好处vi. 得益于；得利于 vt. 对……有用；使受益	beneficial /beniˈfiʃl/ adj. 有利的
+250.	find /faind/ vt. 找到；发现 , 意识到	
+		find fault with 找某人的错；埋怨 （找碴）	found themselves at a loss 感到不知所措
+251.	future /ˈfju:tʃə(r)/ n. 将来；前景	futurist /'fjuːtʃərɪst/ n. 未来主义作家，未来主义画家，未来学家
+252.	futurological /fjuːtʃərə'lɒdʒɪkəl/ adj. 未来学的	futurologist /fju:tʃəˈrɔlədʒist/ n. 未来学家
+253.	group /ɡru:p/ v（.   使）成群，成组 n. 组；群
+254.	importance /imˈpɔ:tns/ n. 重要性，重要		they attach great importance to the project 他们高度重视这个项目
+255.	pay /pei/ vt. 付费；缴纳，偿还；付出n. 薪水	pay for 为…付出代价	pay off 付清，取得成功
+256.	payment /ˈpeimənt/ n. 报偿；款额；支付		paycheck /ˈpeitʃek/ n. 薪水
+257.	payer /ˈpeiə(r)/ n. 付款人		overpay /əuvəˈpei/ vt. 多付报酬
+258.	require /riˈkwaiə(r)/ vt. 需要，要求；规定	demanding 要求高的
+259.	requirement /riˈkwɑi(r)əmənt/ n. 要求，必备条件
+260.	true /tru:/ adj. 真正的，实质上的；正确的；真实的	truly /ˈtru:li/ adv. 真正地，确实
+261.	truth /tru:θ/ n. 真相；真理；真实性		truthfulness /ˈtru:θflnəs/ n. 真实
+262.	bring /briŋ/ vt. 带，带来 vi. 导致	bring out 使某物出现；出现	bring about 发生；导致
+263.	fashion /ˈfæʃn/ vt. 形成n. 时尚		in a … fashion / manner 以… 的方式
+264.	fashionable /ˈfæʃnəbl/ adj. 流行的	unfashionable /ʌnˈfæʃnəbl/ adj. 过时的
+265.	fashionedness /ˈfæʃəndnəs/ n. 风格，样式
+266.	improve /imˈpru:v/ vt. 提高vi. 改善	enhance、boost、strengthen、promote
+267.	improvement /imˈpru:vmənt/ n. 提升，改进
+268.	intellectual /intəˈlektʃuəl/ adj. 智力的；脑力的n. 知识分子
+269.	intelligence /inˈtelidʒəns/ n. 智力；情报，情报人员		intellect /ˈintəlekt/ n. 智力；智力高超的人
+270.	intellectualism /intəˈlektʃuəlizəm/ n. 理智主义	anti- intellectualism 反智主义
+271.	intelligent /inˈtelidʒənt/ adj. 聪明的	intellectualize /intəˈlektʃuəlɑiz/ vt. 使理智化
+272.	provide /prəˈvɑid/ vt. 提供；规定	the final section provides that 	最后一节规定
+273.	provided /prəˈvaidid/ conj. 如果；假如；在…条件下
+274.	technology /tekˈnɔlədʒi/ n. 科技，技术	technologist /tekˈnɔlədʒist/ n. 技术专家
+275.	technical /ˈteknikl/ adj. 技术的，工艺的（强调技艺、技术）	technological /tekˈnɔlədʒik(ə)l/ adj. 技术的（强调科技）
+276.	technique /tekˈni:k/ n. 技巧，技术	technicist /ˈteknəsist/ n. 技术员
+277.	hi-tech /haiˈtek/ adj. 高科技的		employ hi-tech means in research 在研究中应用高科技方法
+278.	technically /ˈteknikli/ adv. 专业地；严格意义地
+279.	common /ˈkɔmən/ adj. 普通的；常见的；共有的	uncommon /ʌnˈkɔmən/ adj. 不常见的
+280.	commonness /ˈkɔmənnəs/ n. 普通；平凡；共性
+281.	commonly /ˈkɔmənli/ adv. 通常	conscious 清醒的，意识得到的
+		Mental health has commonly been called conscience, instinct, wisdon, common sense, or the inner voice.
+		心理健康通常被称作良心、本能、智慧、常识或者心灵之音。
+282.	commonality /ˈkɔməˈnæliti/ n. 共性	this quest for commonalities defines science. 寻找事物的共性正是科学的涵义.
+283.	compute /kəmˈpju:t/ v. 计算；估算	computational /kɔmpjuˈteiʃənl/ adj. 计算的，计算机的
+284.	consumption /kənˈsʌmpʃn/ n. 消费；消耗，消耗量	consumption patterns 消费模式
+285.	consume /kənˈs(j)u:m/ vt. 毁灭；消耗；消费	consumerism /kənˈs(j)u:mərizəm/ n. 消费主义
+286.	customer /ˈkʌstəmə(r)/ n. 顾客		consumer /kənˈsju:mə(r)/ n. 消费者，用户
+287.	custom /ˈkʌstəm/ n. 风俗，习俗		Customs 海关
+288.	customary /ˈkʌstəməri/ adj. 习俗的；习惯的
+289.	customize /ˈkʌstəmɑiz/ vt. 订制	
+	Subscribers can customize the information they want to receive… 用户可以量身设定自己想要接收的信息
+290.	accustom /əˈkʌstəm/ vt.（使）习惯于	be accustomed to sth 习惯于
+
