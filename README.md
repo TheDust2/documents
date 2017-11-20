@@ -1,5 +1,4 @@
 # documents
-share some documents 
 1.	people /ˈpi:pl/ n. 百姓；（统称某行业或领域的）人；人民，民族	56 peoples
 2.	newly /ˈnju:li/ adv. 最近，最新		newly unemployed 
 3.	newsroom /ˈnju:zru:m/ n. 新闻编辑部	newsstand /ˈnjuːzstænd/ n. 报刊亭
@@ -12,7 +11,7 @@ share some documents
 10.	textual /ˈtekstʃuəl/ adj. 文本的
 11.	context /ˈkɔntekst/ n. 环境；语境，上下文		contextual /kənˈtekstʃuəl/ adj. 语境的，与上下文有关的
 12.	make /meik/ vt. 制造；做；挣（钱）；制订；使得；造就
-Circumstances do not make a person , they reveal him.
+	Circumstances do not make a person , they reveal him.
 13.	making /ˈmeikiŋ/ n. 完成，形成		maker /ˈmeikə(r)/ n. 制造者；制定者
 14.	saying /ˈseiiŋ/ n. 谚语	as a saying goes
 15.	only /ˈəunli/ adj. 唯一的adv. 只有	if only 如果…就好了	only if 只有；除非
@@ -92,17 +91,17 @@ to take the lives of …	Most substances taken in excess will…
 88.	jog /dʒɔɡ/ v. 慢跑n. 慢跑
 89.	market /ˈmɑ:kit/ vt. 推销，促销n. 市场		marketer /ˌmɑ:kiˈtiə(r)/ n. 市场营销人员；营销商
 90.	marketplace /ˈmɑ:kitpleis/ n. 市场；市场竞争
-91.		test /test/ n. 测试，考试 vt. 检查vi. 检测为		untested /ʌnˈtestid/ adj. 未经考验（试验）的
-92.		contest vt. /kənˈtest/ 提出异议；竞争n. /ˈkɔntest/ 竞赛	hot-contested market 竞争激烈的市场
-93.		uncontested /ʌnkənˈtestid/ adj. 无争议的
-94.		outlook /ˈautluk/ n. 世界观；前景；景色		overlook /əuvəˈluk/ vt. 忽视；俯瞰
-95.		think /θiŋk/ vt. 认为vi. 思考；想，想起		thinker /ˈθiŋkə(r)/ n. 思想家，有……思想的人
-96.		thought /θɔ:t/ n. 想法（think 的过去式）		thoughtless /ˈθɔ:tləs/ adj. 轻率的，欠考虑的
-97.		thoughtful /ˈθɔ:tfl/ adj. 思考的；体贴周到的	considerate  体贴的，考虑周到的
-98.		freethinking /ˈfri:ˈθiŋkiŋ/ n. 自由思想
-99.		culture /ˈkʌltʃə(r)/ n. 文化；培养（细菌 / 细胞）
-100.	cultural /ˈkʌltʃərəl/ adj. 文化的		counterculture /ˈkauntəkʌltʃə(r)/ n. 反主流文化，反正统文化
-101.	line /lain/ n. 线条；字行，诗行；态度	to take a tough line on political issues 对政治问题态度强硬(hardline)
+91.	test /test/ n. 测试，考试 vt. 检查vi. 检测为		untested /ʌnˈtestid/ adj. 未经考验（试验）的
+92.	contest vt. /kənˈtest/ 提出异议；竞争n. /ˈkɔntest/ 竞赛	hot-contested market 竞争激烈的市场
+93.	uncontested /ʌnkənˈtestid/ adj. 无争议的
+94.	outlook /ˈautluk/ n. 世界观；前景；景色		overlook /əuvəˈluk/ vt. 忽视；俯瞰
+95.	think /θiŋk/ vt. 认为vi. 思考；想，想起		thinker /ˈθiŋkə(r)/ n. 思想家，有……思想的人
+96.	thought /θɔ:t/ n. 想法（think 的过去式）		thoughtless /ˈθɔ:tləs/ adj. 轻率的，欠考虑的
+97.	thoughtful /ˈθɔ:tfl/ adj. 思考的；体贴周到的	considerate  体贴的，考虑周到的
+98.	freethinking /ˈfri:ˈθiŋkiŋ/ n. 自由思想
+99. culture /ˈkʌltʃə(r)/ n. 文化；培养（细菌 / 细胞）
+100. cultural /ˈkʌltʃərəl/ adj. 文化的		counterculture /ˈkauntəkʌltʃə(r)/ n. 反主流文化，反正统文化
+101. line /lain/ n. 线条；字行，诗行；态度	to take a tough line on political issues 对政治问题态度强硬(hardline)
 102.	underline /ʌndəˈlain/ v. 在……下划线；强调，突出		highlight vt / n	underlying 潜在的
 103.	outline /ˈautlain/ vt. 概述；勾勒出（轮廓）n. 提纲，概述；轮廓	headline /ˈhedlain/ n. 头条新闻
 104.	lineage /ˈliniidʒ/ n. 血统；世系；谱系
@@ -123,7 +122,6 @@ to take the lives of …	Most substances taken in excess will…
 119.	upright /ˈʌprait/ adj. 直立的，正直的	rightly /ˈraitli/ adv. 正当地
 120.	righteous /ˈraitʃəs/ adj. 公正的		righteous indignation	义愤
 121.	copyright /ˈkɔpirait/ n. 版权
- 
 122.	someday /ˈsʌmdei/ adv. 有一天，有朝一日	sometime 某个时间
 123.	price /prais/ vt. 定价n. 价格n. 代价	at a price 以很高的代价
 124.	word /wə:d/ vt. 措辞n. 字，词；说的话，言语	planning to word the recommendation narrowly.计划在建议的措辞上更为严谨
@@ -186,14 +184,14 @@ to take the lives of …	Most substances taken in excess will…
 174.	medium /ˈmi:diəm/ n. 媒介 adj. 中等的	meida 媒介  datum--data
 175.	case /keis/ n. 情况；事例，案例；案件
 176.	effect /iˈfekt/ vt. 实现，使发生n. 影响；效果，效应	in effect = in fact 实际上	side effect 副作用
-Cline believes lasting change can only be effected by the customer. Cline相信只有消费者才能实现持久的改变
+		Cline believes lasting change can only be effected by the customer. Cline相信只有消费者才能实现持久的改变
 177.	effectively /iˈfektivli/ adv. 有效地；事实上	ineffectual /iniˈfektʃuəl/ adj. 无效的
 178.	effective /iˈfektiv/ adj. 有效的			ineffective /iniˈfektiv/ adj. 无效果的
 179.	effectiveness /iˈfektivnis/ n. 有效性		indffectiveness  无效性
 180.	interest /ˈintrəst/ n. 兴趣；好处，利益；利息	lower interest rates 低利率  public interest 公众利益
 181.	reason /ˈri:zn/ v. 推理，论证n. 理性；道理；原因	reasonableness /ˈri:znəblnis/ n. 合理，恰当
 182.	reasonable /ˈriːzənəbəl/ adj. 合理的		unreasonable /ʌnˈri:znəbl/ adj. 不合理的
-take reasonable measures 采取合理的举措
+		take reasonable measures 采取合理的举措
 183.	control /kənˈtrəul/ vt. 控制n. 控制；控制权；管制，限制
 184.	uncontrolled /ʌnkənˈtrəuld/ adj. 无法控制的；不加控制的
 185.	court /kɔ:t/ n. 法庭；球场			court’s ruling 裁决
@@ -314,6 +312,59 @@ take reasonable measures 采取合理的举措
 287.	custom /ˈkʌstəm/ n. 风俗，习俗		Customs 海关
 288.	customary /ˈkʌstəməri/ adj. 习俗的；习惯的
 289.	customize /ˈkʌstəmɑiz/ vt. 订制	
-	Subscribers can customize the information they want to receive… 用户可以量身设定自己想要接收的信息
+		Subscribers can customize the information they want to receive… 用户可以量身设定自己想要接收的信息
 290.	accustom /əˈkʌstəm/ vt.（使）习惯于	be accustomed to sth 习惯于
+291.	form /fɔ:m/ vt. 形成n. 形式
+292.	found /fɑund/ vt. 建立	founder /ˈfɑundə(r)/ n. 创建人		the founder 开国元勋
+		Morgan helped found modern anthropology.  Morgan帮助建立了现代人类学
+293.	foundation /fɑunˈdeiʃn/ n. 地基，基础；根据；基金会
+294.	paper /ˈpeipə(r)/ n. 纸；报纸；论文
+295.	support /səˈpɔ:t/ vt. 支持；供养n. 支持		supporter /səˈpɔ:(r)tə(r)/ n. 支持者
+296.	supportive /səˈpɔ:(r)tiv/ adj. 支持的	be supportive of  支持…
+297.	tend /tend/ vi. 往往，倾向vt. 照料	Doctors and nurses tended the injured. 医生和护士护理受伤者
+298.	tendency /ˈtendənsi/ n. 倾向，趋势	trend
+299.	theory /ˈθiəri/ n. 学说，理论		theory of relativity 相对论
+300.	theoretical /θi(:)əˈretikl/ adj. 理论的	theorise（美式拼写 theorize）/ˈθi(:)ərɑiz/ vi. 创建理论 vt. 使理论化
+301.	concern /kənˈsə:n/ vt. 涉及；（使）担忧 n. 担心；重要的感兴趣的事物		concerning 关于、涉及 （介词）
+302.	unconcerned /ʌnkənˈsəːnd/ adj. 漠不关心的，没兴趣的
+303.	drug /drʌɡ/ n. 毒品；药物	drug trafficker 毒贩子  hunman trafficker 人贩子  hunman trafficking 贩卖人口
+304.	drugstore /ˈdrʌɡstɔ:(r)/ n（.   兼售化妆品等的）药房	drugtaker /ˈdrʌɡt涉及eikə(r)/ n. 吸食毒品者
+305.	fund /fʌnd/ vt. 拨款n. 资金；基金	They do not fund peer-reviewed research. 他们不为同行评价型研究提供资金
+306.	overfund /ˈəuvə(r)fʌnd/ vt. 花过多的钱	underfund /ʌndəˈfʌnd/ vt. 资金（投入）不足
+307.	music /ˈmju:zik/ n. 音乐，乐曲		musical /ˈmju:zikl/ adj. 音乐的n. 音乐剧
+308.	cause /kɔ:z/ vt. 导致n. 事业；原因	cause more harm than good 导致弊大于利
+309.	claim /kleim/ vt. 宣称，断言n. 宣称，断言；索赔，索款	disclaim /disˈkleim/ vt. 否认    injury claims 伤害索赔
+310.	claimant /ˈkleimənt/ n.（因失业等）领取救济金者
+311.	continue /kənˈtinju:/ v. 持续；继续	discontinue /diskənˈtinju:/ vt. 停止，终止，中断
+312.	continually /kənˈtinjuəli/ adv. 不断地	continuous /kənˈtinjuəs/ adj. 持续不断的；延伸的，遍布的
+313.	continual /kənˈtinjuəl/ adj. 连续的，频繁的	continual complaint 频繁地抱怨
+314.	continuance /kənˈtinjuəns/ n. 持续	continuity /kɔntiˈnju:əti/ n. 连续性
+315.	environment /inˈvɑirənmənt/ n.（自然）环境；环境	environmental /invɑirənˈmentl/ adj. 环境的
+316.	environmentally /invɑirənˈmentəli/ adv. 在环境方面	environmentalist /invɑirənˈmentəlist/ n. 环境保护论者
+317.	instead /inˈsted/ adv. 代替；反而
+318.	journal /ˈdʒə:(r)nl/ n. 报纸，刊物，杂志		journalist /ˈdʒə:(r)nəlist/ n. 新闻记者
+319.	journalism /ˈdʒə:(r)nəlizəm/ n. 新闻业，新闻工作	journalistic /dʒə:(r)nəˈlistik/ adj. 新闻业的；新闻工作（者）的
+320.	probably /ˈprɔbəbli/ adv. 很可能	improbable /imˈprɔbəbl/ adj. 不太可能的
+321.	probability /prɔbəˈbiləti/ n. 可能性	the probability of a child committing a criminal act 少年犯罪的可能性
+322.	start /stɑ:(r)t/ vt.（使）发生，开始n. 开头；开端	at the start of 在…之初
+323.	argue /ˈɑ:(r)ɡju:/ vt. 论证，认为vi. 争吵，争辩	Many argue that… 很多人认为…
+324.	argument /ˈɑ:(r)ɡjumənt/ n. 论据；论点；争论，辩论
+325.	certain /ˈsə:(r)tn/ adj. 确定的；某个（些） uncertain /ʌnˈsə:(r)tn/ adj. 不确定的   to (some) extent/degree 在某种程度上
+326.	certainly /ˈsə:tnli/ adv. 肯定，无疑	uncertainty /ʌnˈsə:(r)tnti/ n. 不确定性；不确定因素
+327.	consider /kənˈsidə(r)/ vt. 细想；认为；考虑到	reconsider /ri:kənˈsidə(r)/ vt. 重新考虑
+328.	consideration /kənsidəˈreiʃn/ n. 关心，体谅；仔细考虑
+329.	considerable /kənˈsidərəbl/ adj. 相当的		considerably /kənˈsidərəbli/ adv. 非常；相当大（多）地
+330.	individual /indiˈvidʒuəl/ adj. 单独的，个体的n. 个人	
+331.	likely /ˈlaikli/ adj. 可能的；预料的；有希望的	unlikely /ʌnˈlaikli/ adj. 不可能的
+332.	likelihood /ˈlaiklihud/ n. 可能性	likeliness /ˈlaiklinis/ n. 可能性
+333.	lose /lu:z/ vt. 输掉；失去，损失		loser /ˈoserə(r)/ n. 失败者
+334.	loss /lɔ(:)s/ n. 缺少，丧失；亏损	take a loss 亏损
+335.	professional /prəˈfeʃənl/ adj. 职业的；专业的n. 专业人士	to be taken more seriously 更受重视
+336.	profession /prəˈfeʃn/ n. 行业，职业；（某）职业界		Methodology 方法论
+337.		professionalism /prəˈfeʃənəlizəm/ n. 专业性，专业主义
+338.	professionalise /prəˈfeʃənəlaiz/ vt.（使）专业化	professionalization /prəufeʃənəlaiˈzeiʃən/ n. 专业化；职业化
+339.	role /rəul/ n. 角色，作用	still play a major role  依然发挥主要作用
+340.	service /ˈsə:(r)vis/ n. 服务；公共服务事业		serve as a good example 可作为一个很好的例子
+341.	serve /sə:v/ vt. 服务；能满足……的需要；可用作	serve clients ethically 按照职业道德为客户服务
+342.	servant /ˈsə:(r)vənt/ n. 仆人；（公司或机构的）雇员、公务员
 
