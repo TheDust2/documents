@@ -361,10 +361,56 @@ to take the lives of …	Most substances taken in excess will…
 334.	loss /lɔ(:)s/ n. 缺少，丧失；亏损	take a loss 亏损
 335.	professional /prəˈfeʃənl/ adj. 职业的；专业的n. 专业人士	to be taken more seriously 更受重视
 336.	profession /prəˈfeʃn/ n. 行业，职业；（某）职业界		Methodology 方法论
-337.		professionalism /prəˈfeʃənəlizəm/ n. 专业性，专业主义
+337.	professionalism /prəˈfeʃənəlizəm/ n. 专业性，专业主义
 338.	professionalise /prəˈfeʃənəlaiz/ vt.（使）专业化	professionalization /prəufeʃənəlaiˈzeiʃən/ n. 专业化；职业化
 339.	role /rəul/ n. 角色，作用	still play a major role  依然发挥主要作用
 340.	service /ˈsə:(r)vis/ n. 服务；公共服务事业		serve as a good example 可作为一个很好的例子
 341.	serve /sə:v/ vt. 服务；能满足……的需要；可用作	serve clients ethically 按照职业道德为客户服务
 342.	servant /ˈsə:(r)vənt/ n. 仆人；（公司或机构的）雇员、公务员
+341.	population /pɔpjuˈleiʃn/ n. 人口，人口数量
+342.	populate /ˈpɔpjuleit/ vt. 居住于；构成……的人口	
+		the modern world is increasingly populated by intelligent gizmos .越来越多的智能仪器出现在当今世界
+343.	populace /ˈpɔpjələs/ n. 平民百姓，民众		a majority of the populace 大多数百姓
+344.	populist /ˈpɔpjəlizəm/ n. 民粹主义，平民主义者	democratic and populist 民主主义和民粹主义
+345.	site /sait/ vt. 使坐落在n. 网站，站点，地点，工地，现场
+346.	care /keə(r)/ vi. 关注，在意n. 照料，护理 	careful 仔细的  careless粗心的	carefully /ˈkeəfəli/ adv. 认真地，仔细地
+347.	carefree /ˈkeəfri:/ adj. 无忧无虑的；不负责任的	a carefree attitude不负责任的态度
+348.	Medicare /ˈmedikeə(r)/ n（ 美国等国的）医疗保险
+349.	fact /fækt/ n. 事实，实际情况		factual /ˈfæktʃuəl/ adj. 事实性的 
+350.	million /ˈmiljən/ number. 一 百 万	billion /ˈbiljən/ number. 十 亿	
+351.	trillion /ˈtriljən/ number. 万亿，兆	trillionfold /ˈtriljənfəuld/ n. 万 亿 倍
+352.	publish /ˈpʌbliʃ/ vt. 出版，发行；发表；公布	publisher /ˈpʌbliʃə(r)/ n. 出版人（或机构）；发行人
+353.	share /ʃeə(r)/ vt. 分享；有同样的感情（想法、经历等）n. 股份	share the same view 持有相同观点
+354.	 shareholder /ˈʃeəhəuldə(r)/ n. 股 东
+355.	community /kəˈmju:nəti/ n. 社会；团体，界	the European community 欧洲社会
+356.	feel /fi:l/ linking verb（系动词）觉得，感到vt. 感到	feeling /ˈfi:liŋ/ n. 感觉；情感
+357.	moral /ˈmɔrəl/ adj. 道德的，道义上的	ethical	 You don’t get to judge.
+358.	morality /məˈræləti/ n. 道德，道德体系	
+359.	demoralization /dimɔrəlɑiˈzeiʃ(ə)n/ n.  堕落；士气低落	demoralization of spirit 颓废
+360.	move /mu:v/ vt. 采取行动vi. 移动n. 行动，举措；调动	move against 打击
+361.	movement /ˈmu:vmənt/ n（.  具有共同思想或目标的）运动；迁移	animal rights movement 动物权利运动
+362.	remove /riˈmu:v/ vt（.   从某地）拿开，移除；去除		be far / farther removed from sth. 与… 大相径庭
+363.	nature /ˈneitʃə(r)/ n. 自然界，大自然；天性，本性		
+364.	unnatural /ʌnˈnætʃrəl/ adj. 不自然的，勉强的	unnatural restraints on children 不自然地禁锢了孩子
+365.	natural /ˈnætʃrəl/ adj. 自然的；本能的，天生的；正常的；n. 有天赋的人 naturally /ˈnætʃrəli/ adv. 自然地；合理地
+366.	percent /pəˈsent/ n. 百分率；百分比	percentage /pəˈsentidʒ/ n. 百 分 比
+367.	pressure /ˈpreʃə(r)/ n. 心理压力；紧张 v. 施压	to pressure those officials 对那些官员施压
+368.	press /pres/ vt. 挤；催促，逼迫n. 报刊；新闻界；印刷机 
+369.	student /ˈstju:dnt/ n. 学生；学者	schoolar academic intellectual
+370.	turn /tə:(r)n/ vt.（使）转动，转变vi. 转动n. 转弯；变化	in turn 反过来	turn to 向...求助
+371.	turning /ˈtə:(r)niŋ/ v. 转变（turn 的现在分词形式）n. 岔路口，拐弯处
+372.	turnover /ˈtə:nəuvə(r)/ n. 人事变更率；营业额，成交量
+373.	allow /əˈlau/ vt. 允许；准许		allowance /əˈlaʊəns/ n. 津 贴
+374.	attitude /ˈætitju:d/ n. 态度；看法	altitude 海拔
+375.	back /bæk/ vt. 支持adv. 以前；向后地n. 后部，后面	
+376.	background /ˈbækɡraʊnd/ n. 背 景  backyard /bækˈjɑ:(r)d/ n. 后院    backbone /ˈbækbəun/ n. 脊柱；支柱
+377.	backdrop /ˈbækdrɔp/ n.（舞台）背景布；（事件）背景	backload /ˈbækləʊd/ vt. 追加（资金）
+378.	begin /biˈɡin/ v. 开始；启动		beginning /biˈɡiniŋ/ n. 开头，开端；开始部份
+379.	decide /diˈsaid/ v. 承认；决定		decision /diˈsiʒn/ n. 决定，裁决
+380.	decider /diˈsaidə(r)/ n. 决胜局；决赛	decisive /diˈsaisiv/ adj. 决定性的；关键的
+381.	decisiveness /diˈsaisivnəs/ n. 果 断 ； 决 定 性
+382.	dream /dri:m/ v. 做梦；想象；梦想n. 梦；梦想
+383.	experience /ikˈspi(ə)riəns/ vt. 经历n. 经验；实践；经历
+384.	infer /inˈfə:(r)/ vt. 推断；推理		inference /ˈinfərəns/ n. 推断；推理
+385.	legal /ˈli:ɡl/ adj. 法律的；合法的	legitimate /liˈdʒitimət/ adj. 合理的，合法的
 
