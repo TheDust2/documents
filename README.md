@@ -362,7 +362,7 @@ to take the lives of …	Most substances taken in excess will…
 335.	professional /prəˈfeʃənl/ adj. 职业的；专业的n. 专业人士	to be taken more seriously 更受重视
 336.	profession /prəˈfeʃn/ n. 行业，职业；（某）职业界		Methodology 方法论
 337.	professionalism /prəˈfeʃənəlizəm/ n. 专业性，专业主义
-338.	professionalise /prəˈfeʃənəlaiz/ vt.（使）专业化	professionalization /prəufeʃənəlaiˈzeiʃən/ n. 专业化；职业化
+338.	professionalise /prəˈfeʃənəlaiz/ vt.（使）专业化	professionalization /prəufeʃənəlaiˈzeiʃən/ n. 专业化；职业化
 339.	role /rəul/ n. 角色，作用	still play a major role  依然发挥主要作用
 340.	service /ˈsə:(r)vis/ n. 服务；公共服务事业		serve as a good example 可作为一个很好的例子
 341.	serve /sə:v/ vt. 服务；能满足……的需要；可用作	serve clients ethically 按照职业道德为客户服务
@@ -381,7 +381,7 @@ to take the lives of …	Most substances taken in excess will…
 351.	trillion /ˈtriljən/ number. 万亿，兆	trillionfold /ˈtriljənfəuld/ n. 万 亿 倍
 352.	publish /ˈpʌbliʃ/ vt. 出版，发行；发表；公布	publisher /ˈpʌbliʃə(r)/ n. 出版人（或机构）；发行人
 353.	share /ʃeə(r)/ vt. 分享；有同样的感情（想法、经历等）n. 股份	share the same view 持有相同观点
-354.	 shareholder /ˈʃeəhəuldə(r)/ n. 股 东
+354.	shareholder /ˈʃeəhəuldə(r)/ n. 股 东
 355.	community /kəˈmju:nəti/ n. 社会；团体，界	the European community 欧洲社会
 356.	feel /fi:l/ linking verb（系动词）觉得，感到vt. 感到	feeling /ˈfi:liŋ/ n. 感觉；情感
 357.	moral /ˈmɔrəl/ adj. 道德的，道义上的	ethical	 You don’t get to judge.
