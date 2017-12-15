@@ -684,3 +684,123 @@ artificial intelligence 人工智能	artifucial smile 不自然的笑
 641.	asset /ˈæset/ n. 资产，财产；有用的人（或事物）
 642.	board /bɔ:(r)d/ vt. 登上（飞机、火车等）n. 委员会，董事会；机构；木板		billboard /ˈbilbɔ:(r)d/ n. 广告牌
 643.	check /tʃek/ vt. 检查；控制，抑制n. 审查
+644.	compare /kəmˈpeə(r)/ vt. 比较		compare to 比作	campare with 与…相比
+645.	comparison /kəmˈpærisn/ n. 比较	in comparison with
+646.	comparable /ˈkɔmpərəbl/ adj. 与……是相似的		is comparable to	有相似之处
+647.	comparative /kəmˈpærətiv/ adj. 比较的；相对的		a comparative study 对比研究
+648.	comparatively /kəmˈpærətivli/ adv. 相比较而言
+649.	concept /ˈkɔnsept/ n. 概 念		misconception /miskənˈsepʃn/ n. 错误认识，误解
+650.	conceive /kənˈsi:v/ vt. 设想，思考；怀孕		conceive children 受孕
+651.	conception /kənˈsepʃn/ n. 理解，观点；怀孕	misconception /miskənˈsepʃn/ n. 错误认识，误解
+	This top-down conception of the fashion business 时装业这种从高端到低端演变的观点
+652.	dam /dæm/ n. 水坝		damn 见鬼
+653.	encourage /inˈkʌridʒ/ vt. 鼓励；促进，助长
+654.	courage /ˈkʌridʒ/ n. 勇气，勇敢	encouragement /inˈkʌridʒmənt/ n. 鼓 励
+655.	courageous /kəˈreidʒəs/ adj. 勇敢的	this courageous attitude 这种勇敢的态度
+656.	discourage /disˈkʌridʒ/ vt. 阻止；使丧气	   we discourage them from saying
+657.	discouraging /disˈkʌridʒiŋ/ adj. 令人沮丧的 
+658.	expression /ikˈspreʃn/ n. 表达；表情；表达方式	facial expression 面部表情
+659.	express /ikˈspres/ vt. 表达 adj. 明确的；特快的 n. 特快列车，快递
+660.	expressive /ikˈspresiv/ adj. 有表现力的	inexpressible /inikˈspresəbl/ adj. 难以言表的
+661.	global /ˈɡləubl/ adj. 全球的；全局的	globally /ˈɡləubli/ adv. 全球地；全局的
+662.	globe /ɡləub/ n. 地球，世界；球体	globalization /ɡləubəlɑiˈzeiʃn/ n. 全球化
+663.	happiness /ˈhæpinəs/ n. 幸 福		happily /ˈhæpili/ adv. 快乐地，幸福地
+664.	hot /hɔt/ adj. 激烈的；热的	in hot pursuit of 对… 穷追不舍		hotly /ˈhɔtli/ adv. 强烈地，起劲地
+665.	identify /ɑiˈdentifɑi/ vt. 确定，找到	indentify with sb.   同情某人	he identified GDP with happiness 认为…等同于
+666.	identifiable /ɑidentiˈfɑiəbl/ adj. 可识别的，可辨认的	identical /ɑiˈdentikl/ adj. 完全相同的
+667.	identity /ɑiˈdentəti/ n. 特有的感觉（或信仰）认同；身份
+668.	lower /ˈləuə/ vt. 减少，调低adj. 更低的，较少的	lower their operational cost 减少运行成本
+669.	middle /ˈmidl/ adj. 中间的n. 中间，中部		middle age crisis 中年危机
+670.	midst /midst/ n. 中 间		in the midst of …  在…当中	in the middle of…
+671.	Midwest /midˈwest/ n. 美国的中西部地区	amid /əˈmid/ prep. 在……中
+672.	modern /ˈmɔdn/ adj. 现代的；新式的，时髦的
+673.	real /ˈri:əl/ adj. 真实的，真正的		really /ˈriəli/ adv. 极其，确实；真实地	reality /riˈæləti/ n. 现 实
+674.	reveal /riˈvi:l/ vt. 揭示；显示		revelation /revəˈleiʃn/ n. 被揭露的真相；揭露
+675.	simply /ˈsimpli/ adv. 仅仅，只；实在，简直；简单地	There simply too few posts.  职位实在太有限
+676.	simplify /ˈsimplifɑi/ vt.（使）简化，（使）简易	simplification /simplifiˈkeiʃn/ n. 简化
+677.	simplicity /simˈplisəti/ n. 简单；质朴	This insight, so profpund in its simplicity	这一见解简单的概述中蕴含深刻寓意
+678.	smell /smel/ vt. 闻到n. 气味		smelly 有臭味的，难闻的	smeller /ˈsmelə/ n. 触须；闻的人
+679.	status /ˈsteitəs/ n. 地位，身份		cement 水泥
+	They counld cement the status quo of peer-reviewed research. 他们会僵化同行评价型研究的现状
+680.	talk /tɔ:k/ vi. 谈论，商谈n. 谈论；空话，说辞
+681.	buy /bɑi/ vt. 购买；相信	buy sth. up 全部买下，收购		bought that nonsense
+682.	casino /kəˈsi:nəu/ n. 赌 场
+683.	choose /tʃu:z/ vt. 选 择	choice /tʃɔis/ n. 选择
+684.	competition /kɔmpəˈtiʃn/ n. 竞争，角逐		competitor /kəmˈpetitə(r)/ n. 竞争者，对手
+685.	competitive /kəmˈpetətiv/ adj. 竞争的；有竞争力的		competitiveness /kəmˈpetətivnəs/ n. 竞争力
+686.	compete /kəmˈpi:t/ vi. 竞争；参赛	compete for 为了…竞争	compete with 与… 竞争
+687.	competent /ˈkɔmpitənt/ adj. 有能力的 	incompetent /inˈkɔmpitənt/ adj. 无能力的，不称职的  
+688.	competence /ˈkɔmpitəns/ n. 能 力
+689.	competently /ˈkɔmpitəntli/ adv. 不错地，胜任地	incompetently /inˈkɒmpitəntli/ adv. 无能力地；不胜任地
+690.	criticism /ˈkritisizəm/ n. 批评，责备 ;（书、电影、音乐等的）评论	criticize /ˈkritisaiz/ vt. 批 评
+691.	critic /ˈkritik/ n. 批评家  critical /ˈkritikl/ adj. 关键的；批评的；批判的；相当的	critically /ˈkritikli/ adv. 批判地；非常
+692.	criterion /kraiˈti(ə)riən/ n. 标 准 （pl. criteria/ -riə/ ）  criteria 复数 critique /kriˈti:k/ n. 评论vt. 写评论；对……发表评论
+693.	evolve /iˈvɔlv/ v. 逐渐演变；进化	evolution /i:vəˈlu:ʃn; ev-/ n.（生物）进化；演变，进步
+694.	evolutionary /i:vəˈlu:ʃənri; ev-/ adj. 进化的，演变的
+695.	fear /fiə(r)/ v. 担心，害怕n. 害怕	fearful /ˈfiəfl/ adj. 可怕的	full of fear	 忧心忡忡的
+696.	fearsome /ˈfiəsəm/ adj. 可怕的；十分吓人的	fearsomely /ˈfiəsəmli/ adv. 可怕地；十分吓人地
+697.	free /fri:/ vt. 释放，解放adj. 自由的；不受限制的；免费的	freely /ˈfri:li/ adv. 免费地；自由地
+698.	introduce /intrəˈdju:s/ vt. 介绍；引进；实施	introductory /intrəˈdʌktəri/ adj. 介绍的，入门的
+第十六次课
+699.	introduction /intrəˈdʌkʃn/ n. 引进；序言；新采用（或新引进）的事物；介绍
+700.	invest /inˈvest/ vt. 投资；投入	investor /inˈvestə(r)/ n. 投资者；投资机构	investment /inˈvestmənt/ n. 投 资
+701.	message /ˈmesidʒ/ n. 信 息	messenger /ˈmesindʒə(r)/ n. 信使，邮差
+702.	name /neim/ vt. 命名；任命n. 名字	a talent named qzx		in the name of …
+703.	poor /pɔ:/ adj. 贫困的；不擅长的；差的		be poor at 不擅长
+704.	poverty /ˈpɔvəti/ n. 贫困；贫乏	to alleviate poverty  减轻贫困
+705.	poorly /ˈpɔ:li/ adv. 糟糕地
+706.	response /riˈspɔns/ n. 回应；反应	in response 作为回应	respond /riˈspɒnd/ v. 回应；反应
+707.	similar /ˈsimələ(r)/ adj. 相像的		assimilate v 同化、理解、吸收
+708.	similarity /siməˈlærəti/ n. 相像性；相似点	similarly /ˈsimələli/ adv. 同样；也；相似地
+709.	title /ˈtaitl/ n. 题目，标题；职称，职位		subtitile 副标题
+710.	entitle /inˈtaitl/ vt.（使）有资格	be entitled to sth 有资格做某事
+711.	entitlement /inˈtaitlmənt/ n拥有某物或做某事的）权利，资格	This may affect your eneitlement to compensation.
+712.	achieve /əˈtʃi:v/ vt. 达 成	achievement /əˈtʃi:vmənt/ n. 成就，成绩	achiever /əˈtʃi:və(r)/ n. 成功人士
+due to /  arrtibute to / ascribe to / own to   归因于
+713.	approach /əˈprəutʃ/ vt. 着手处理；建议，要求v. 接近n. 方法	a necessary and practical approach 必要且实际的方法
+714.	approachable /əˈprəutʃəbl/ adj. 易理解的
+715.	conduct vt. /kənˈdʌkt/ 实施n. /ˈkɔndʌkt/ 行为；经营		to conduct broad review  执行广泛复审
+716.	conductor /kənˈdʌktə(r)/ n.（管弦乐队、合唱队等的）指挥；导体	semiconductor	半导体
+717.	difficult /ˈdifikəlt/ adj. 困难的		have difficulty (in) doing sth 做某事有困难   
+718.	doubt /daut/ n. 疑问vt. 怀疑	 There is no doubt 毫无疑问  /  without no doubt  无疑  
+719.	doubtful /ˈdaʊtfəl/ adj. 不确定的，怀疑的		undoubtedly /ʌnˈdautidli/ adv. 毫无疑问地
+720.	doubtless /ˈdautləs/ adv. 大概；几乎肯定地（无疑）	undoubted /ʌnˈdautid/ adj. 不容置疑的，肯定的(无疑)
+721.	drive /draiv/ vt. 驱使；迫使；开车 n. 干劲；努力	Science’s overall drive to… 科学杂志做出的全面努力 drive away 赶跑
+722.	exist /iɡˈzist/ vi. 存在；生存		I think, therefore I exist.
+723.	existence /iɡˈzistəns/ n. 存在；生存	coexistence /kəuiɡˈzistəns/ n. 共存
+724.	feature /ˈfi:tʃə(r)/ n. 特色；特写，专题v. 以……为特色	a feature story 特稿
+725.	gain /ɡein/ vt. 获得n. 收获		gain access to 接近，取得使用…的机会		gain in sth 增加
+726.	gainful /ˈɡeinfl/ adj. 有收益的；有报酬的；有利可图的	gainful employment 有酬的工作
+727.	ignorance /ˈiɡnərəns/ n. 无 知		ignorant /ˈiɡnərənt/ adj. 无知的
+728.	immigrant /ˈimiɡrənt/ n. 移 民		migration /maiˈɡreiʃn/ n. 迁移，迁徙
+729.	migrate /maiˈɡreit/ vi. 迁徙；移居；移动		migrate from 从…移居	migrate to 移到
+730.	emigrate /ˈemiɡreit/ v. 移居国外；移民	emigration /emiˈɡreiʃn/ n. 移居外国
+731.	include /inˈklu:d/ vt. 包 括	inclusive /inˈklu:siv/ adj. 包含全部费用的；包容广阔的
+732.	mass /mæs/ n. 大多数；大量      mass media 大众传媒      biomass /ˈbaiəumæs/ n. 生物量
+733.	massive /ˈmæsiv/ adj. 巨大的
+734.	necessary /ˈnesəsəri/ adj. 必要的	unnecessary /ʌnˈnesəsəri/ adj. 不必要的；多余的
+735.	necessarily /nesəˈserəli/ adv. 必然地	unnecessarily /ʌnˈnesəsərili/ adv. 不必要地，多余地
+736.	necessity /nəˈsesəti/ n. 必要；必需品；必要性	unnecessary /ʌnˈnesəsəri/ adj. 不必要的；多余的
+737.	pain /pein/ n. 痛苦；疼痛
+738.	painful /ˈpeinfl/ adj. 令人痛苦；艰难的		painless /ˈpeinləs/ adj. 无痛的
+739.	painstaking /ˈpeinzteikiŋ/ adj. 艰辛的
+740.	particular /pə(r)ˈtikjələ(r)/ adj. 特定的；特别的	in particular 尤其
+741.	particularly /pəˈtikjələli/ adv. 特别地，尤其地
+742.	period /ˈpiəriəd/ n. 一段时间，时期	periodical /piəriˈɔdikl/ n.（学术）期刊
+743.	periodically /piəriˈɔdikəli/ adv. 定期地
+744.	plate /pleit/ n. 盘子；板块
+745.	promote /prəˈməut/ vt. 促进，推动；提升；促销	promoter /prəˈməutə(r)/ n. 赞助者，倡导者
+746.	prove /pru:v/ vt. 证明，证实；最终显示为；展现		prove to be 结果是； 证明为
+747.	proof /pru:f/ n. 证据，证明
+748.	regard /riˈɡɑ:(r)d/ vt. 将……认为；注视n. 关心；尊敬	regard sb./ sht as 将某人/某物视为…
+749.	regardless /riˈɡɑ:dləs/ adv. 不顾；不加理会	regardless of  无论；不管
+750.	disregard /disriˈɡɑ:(r)d/ vt. 不理会；忽略n. 漠视
+751.	respect /riˈspekt/ vt. 尊重n. 尊重；方面		disrespect /disriˈspekt/ n. 不尊重；无礼
+752.	respectable /riˈspektəbl/ adj. 受人尊敬的；体面的
+753.	respectively /riˈspektivli/ adv. 分别地，各自地
+754.	stand /stænd/ vi. 站立，直立；位于vt. 使直立n. 观点	stand down 下台
+	He was criticized for his tough stand on immigration.   他因在移民问题上立场强硬受到批评
+755.	standstill /ˈstændstil/ n. 停止；停顿；停滞	
+756.	standpoint /ˈstændpɔint/ n. 立场，观点	from a … standpoint 从… 角度看
+757.	step /step/ vi. 迈步n. 脚步；步伐；办法，措施；台阶	a step forward 进步	   step outside ...迈出
+758.	overstep /əuvəˈstep/ vt. 越权
